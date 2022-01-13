@@ -1,1 +1,1 @@
-Shall try to keep this for the end as a self reflection
+Making a Website with only HTML containing recipes
